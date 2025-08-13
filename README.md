@@ -1,2 +1,2 @@
 # gothicTogether_nauka
-First time using Github, git and Java Script
+First time using Github, Git and Java Script
